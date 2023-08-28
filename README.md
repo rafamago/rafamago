@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**rafamago/rafamago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩🏾‍💻 Rafaela Gomes
 
-Here are some ideas to get you started:
+Studying Analysis and Systems Development Technology. My passion for technology started when i learned Python and then i became interested on learning other languages such as HTML, CSS and JavaScript, now i'm learning Java + Angular. Some of my hobbies are watching, reading, listening and games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo
+[![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=00ffee)](https://www.linkedin.com/in/rafaela-gomes-54025b15b/)
+
+## Habilidades
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=00ffee)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github&logoColor=00ffee)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00ffee)
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafamago&theme=transparent&bg_color=000000&border_color=00ffee&show_icons=true&icon_color=00ffee&title_color=8a2be2&text_color=00ffee&hide_title=true)
+## Minhas contribuições 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafamago&repo=dio-lab-open-source&bg_color=000000&border_color=00ffee&show_icons=true&icon_color=30A3DC&title_color=8a2be2&text_color=00ffee)](https://github.com/rafamago/dio-lab-open-source)
+
