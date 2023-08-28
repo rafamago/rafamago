@@ -1,7 +1,7 @@
 
 # 👩🏾‍💻 Rafaela Gomes
 
-Studying Analysis and Systems Development Technology. My passion for technology started when i learned Python and then i became interested on learning other languages such as HTML, CSS and JavaScript, now i'm learning Java + Angular.Some of my hobbies are watching movies, reading, listening songs and games.
+Studying Analysis and Systems Development Technology. My passion for technology started when i learned Python and then i became interested on learning other languages such as HTML, CSS and JavaScript, now i'm learning Java + Angular. Some of my hobbies are watching movies, reading, listening songs and games.
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=00ffee)](https://www.linkedin.com/in/rafaela-gomes-54025b15b/)
