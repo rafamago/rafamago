@@ -10,10 +10,12 @@ Studying Analysis and Systems Development Technology. My passion for technology 
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=00ffee)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=github&logoColor=00ffee)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00ffee)
+![SqlServer](https://img.shields.io/badge/Sql_Server-black?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=00ffee)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=00ffee)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=00ffee)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=00ffee)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=00ffee)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=00ffee)
 
 
 
