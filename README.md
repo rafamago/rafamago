@@ -1,7 +1,8 @@
 
 # 👩🏾‍💻 Rafaela Gomes
 
-Studying Analysis and Systems Development Technology. My passion for technology started when i learned Python and then i became interested on learning other languages such as HTML, CSS and JavaScript, now i'm learning Java + Angular. Some of my hobbies are watching movies, reading and games.
+Studying Analysis and Systems Development Technology. My passion for technology began when I learned to program in Python just as a hobby and ended up becoming interested in learning other languages.
+I did a bootcamp where I learned how to develop the front-end part of websites using JavaScript, HTML, CSS and Angular with Node.Js, I have projects created in Python, knowledge in related and unrelated databases (SqlServer, DBeaver, MongoDB), Git, academic project in Java, and i'm currently improving my knowledge in C#.
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=00ffee)](https://www.linkedin.com/in/rafaela-gomes-54025b15b/)
@@ -16,6 +17,17 @@ Studying Analysis and Systems Development Technology. My passion for technology 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=00ffee)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=00ffee)
 ![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=00ffee)
+![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=00ffee)
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=00ffee)
+![DOTNET](https://img.shields.io/badge/DOTNET-black?style=for-the-badge&logo=DOTNET&logoColor=00ffee)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=00ffee)
+![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=Oracle&logoColor=00ffee)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=00ffee)
+![DBeaver](https://img.shields.io/badge/DBeaver-black?style=for-the-badge&logo=DBeaver&logoColor=00ffee)
+![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=00ffee)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=00ffee)
+
+
 
 
 
