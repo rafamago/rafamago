@@ -26,6 +26,7 @@ I did a bootcamp where I learned how to develop the front-end part of websites u
 ![DBeaver](https://img.shields.io/badge/DBeaver-black?style=for-the-badge&logo=DBeaver&logoColor=00ffee)
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=00ffee)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=00ffee)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=00ffee)
 
 
 
