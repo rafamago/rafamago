@@ -1,8 +1,8 @@
 
 # 👩🏾‍💻 Rafaela Gomes
 
-Studying Analysis and Systems Development Technology. My passion for technology began when I learned to program in Python just as a hobby and ended up becoming interested in learning other languages.
-I did a bootcamp where I learned how to develop the front-end part of websites using JavaScript, HTML, CSS and Angular with Node.Js, I have projects created in Python, knowledge in related and unrelated databases (SqlServer, DBeaver, MongoDB), Git, academic project in Java, and i'm currently improving my knowledge in C#.
+Studying Analysis and Systems Development Technology. My passion for technology began when i learned to program in Python just as a hobby and ended up becoming interested in learning other languages.
+I did a bootcamp where i learned how to develop the front-end part of websites using JavaScript, HTML, CSS and Angular with Node.Js. I have projects created in Python and WebAPIs in .NET, Entity Framework and MySQL. Have knowledge in related and unrelated databases (MySQL, PostgreSQL, Oracle, SqlServer, DBeaver, MongoDB), Git, Jira and using GCP for log analysis, have academic projects in Java and C#, .NET and MySQL with Windows Forms interface, and i’m also gaining experience in development using C#, .NET and MVC in my internship. Currently in my personal studies, i am improving my knowledge in projects using .NET and Angular.
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=00ffee)](https://www.linkedin.com/in/rafaela-gomes-54025b15b/)
